@@ -9,6 +9,7 @@
 `$ git clone <リポジトリのURL>`
 で、リポジトリをクローンします。
 リポジトリのURLは、`<> Code`と書かれたボタンをクリックすると表示されます。
+
 <img src="./img/repository_url.png" width="800px"/>
 
 `HTTPS`, `SSH`, `GitHub CLI`のタブがありますが、
@@ -20,8 +21,6 @@
 > sshとhttpsの違いは、githubにアクセスする際の認証方法です。
 > ssh接続が推奨されているので、できるだけssh接続を使うようにしましょう。  
 > 設定方法: https://qiita.com/shizuma/items/2b2f873a0034839e47ce
-
-## 必要に応じてやること
 
 ## 0. (任意) Issueを作成する
 GitHubのリポジトリでIssueを作成します。
