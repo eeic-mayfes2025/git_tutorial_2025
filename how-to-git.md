@@ -9,7 +9,7 @@
 `$ git clone <リポジトリのURL>`
 で、リポジトリをクローンします。
 リポジトリのURLは、`<> Code`と書かれたボタンをクリックすると表示されます。
-<img src="./img/repository_url.png" width="600px"/>
+<img src="./img/repository_url.png" width="800px"/>
 
 `HTTPS`, `SSH`, `GitHub CLI`のタブがありますが、
 `SSH`のタブを選択して、URLをコピーしてください。
